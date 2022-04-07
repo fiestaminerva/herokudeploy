@@ -1,6 +1,6 @@
 <?php
 session_start();
-$db = mysqli_connect("localhost", "root", "", "inventory");
+$db = mysqli_connect("d2dlt9k52v6som", "root", "", "inventory");
 
 $prodname = "";
 $prodcategory= "";
